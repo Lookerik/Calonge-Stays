@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /aviso-legal.html
-Disallow: /privacidad.html
-Disallow: /cookies.html
-
-Sitemap: https://calongestays.example.com/sitemap.xml
