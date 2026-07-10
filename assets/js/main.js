@@ -189,7 +189,7 @@
         ];
         var body = encodeURIComponent(bodyLines.join("\n"));
         // Replace with the real reservations inbox.
-        var GMAIL_ADDRESS = "CordovaMarcos@gmail.com";
+        var GMAIL_ADDRESS = "VillaCalongeEs@gmail.com";
         window.location.href = "mailto:" + GMAIL_ADDRESS + "?subject=" + subject + "&body=" + body;
       });
     }
