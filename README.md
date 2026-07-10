@@ -21,8 +21,8 @@ antes (cualquier editor de fotos del celular lo hace al "exportar" o "compartir"
 
 ## Contacto configurado
 
-- WhatsApp: +33 7 84 96 89 87
-- Correo: CordovaMarcos@gmail.com
+- WhatsApp: +33 6 99 73 46 14
+- Correo: VillaCalongeEs@gmail.com
 
 (Puedes cambiarlos en `assets/js/main.js`, al inicio del archivo, y en los
 enlaces `mailto:` de cada página HTML.)
