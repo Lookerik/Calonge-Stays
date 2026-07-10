@@ -6,7 +6,7 @@
 
   /* ---------- WhatsApp config ---------- */
   // Replace with the real WhatsApp number in international format, no + or spaces.
-  var WHATSAPP_NUMBER = "33784968987";
+  var WHATSAPP_NUMBER = "33699734614";
 
   function buildWhatsAppLink(apartmentName){
     var lines = [
